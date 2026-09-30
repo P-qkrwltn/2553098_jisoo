@@ -270,6 +270,42 @@ PrefabInstance:
       propertyPath: controlMode
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: flyFrames.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: idleFrames.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: deathFrames.Array.size
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: defaultFramesPerSecond
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: flyFrames.Array.data[7]
+      value: 
+      objectReference: {fileID: 21300000, guid: d22014f60dbd85647aa2229b43406ced, type: 3}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: idleFrames.Array.data[6]
+      value: 
+      objectReference: {fileID: 21300000, guid: 69dd2296279df2b4a9bb6deabd63b95b, type: 3}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: idleFrames.Array.data[7]
+      value: 
+      objectReference: {fileID: 21300000, guid: 69dd2296279df2b4a9bb6deabd63b95b, type: 3}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: idleFrames.Array.data[8]
+      value: 
+      objectReference: {fileID: 21300000, guid: 69dd2296279df2b4a9bb6deabd63b95b, type: 3}
+    - target: {fileID: 697230934095291352, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
+      propertyPath: attack2ChargeFrames.Array.size
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 3467689297374237033, guid: 9c07304da96101646828b521f4f8d27d, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
